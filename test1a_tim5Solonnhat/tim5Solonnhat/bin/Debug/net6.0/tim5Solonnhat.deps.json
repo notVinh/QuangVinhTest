@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tim5Solonnhat/1.0.0": {
+        "runtime": {
+          "tim5Solonnhat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tim5Solonnhat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

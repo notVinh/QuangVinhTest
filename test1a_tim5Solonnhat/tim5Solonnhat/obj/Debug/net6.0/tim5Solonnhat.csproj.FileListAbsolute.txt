@@ -1,0 +1,15 @@
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\obj\Debug\net6.0\tim5Solonnhat.csproj.AssemblyReference.cache
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\obj\Debug\net6.0\tim5Solonnhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\obj\Debug\net6.0\tim5Solonnhat.AssemblyInfoInputs.cache
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\obj\Debug\net6.0\tim5Solonnhat.AssemblyInfo.cs
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\obj\Debug\net6.0\tim5Solonnhat.csproj.CoreCompileInputs.cache
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\bin\Debug\net6.0\tim5Solonnhat.exe
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\bin\Debug\net6.0\tim5Solonnhat.deps.json
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\bin\Debug\net6.0\tim5Solonnhat.runtimeconfig.json
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\bin\Debug\net6.0\tim5Solonnhat.dll
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\bin\Debug\net6.0\tim5Solonnhat.pdb
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\obj\Debug\net6.0\tim5Solonnhat.dll
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\obj\Debug\net6.0\refint\tim5Solonnhat.dll
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\obj\Debug\net6.0\tim5Solonnhat.pdb
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\obj\Debug\net6.0\tim5Solonnhat.genruntimeconfig.cache
+D:\Project\test\tim5Solonnhat\tim5Solonnhat\obj\Debug\net6.0\ref\tim5Solonnhat.dll
